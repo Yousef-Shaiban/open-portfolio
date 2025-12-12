@@ -7,7 +7,7 @@ theme:
   card:
     aspectRatio: "1/2"
     borderRadius: "1rem"
-    borderWidth: "10px"
+    borderWidth: "1px"
     gap: "36px"
   layout:
     maxWidth: "1600px"
