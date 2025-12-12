@@ -1,7 +1,7 @@
 theme:
   colors:
     background: "#26269AFF"
-    surface: "#FC1961C8
+    surface: "#FC1961C8"
     primary: "#FFD60AFF"
     text: "#73C6AFFF"
   card:
