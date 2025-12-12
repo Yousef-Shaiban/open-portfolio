@@ -1,14 +1,14 @@
 theme:
   colors:
-    background: "#131317FF"
-    surface: "#15191EFF
-    primary: "#EDE247FF"
-    text: "#f4f4f5"
+    background: "#26269AFF"
+    surface: "#FC1961C8
+    primary: "#E5391FFF"
+    text: "#73C6AFFF"
   card:
-    aspectRatio: "16/9"
-    borderRadius: "3rem"
-    borderWidth: "5px"
+    aspectRatio: "1/2"
+    borderRadius: "1rem"
+    borderWidth: "10px"
     gap: "36px"
   layout:
     maxWidth: "1600px"
-    paddingX: "96px"
+    paddingX: "200px"
