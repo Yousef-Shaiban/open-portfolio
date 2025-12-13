@@ -11,4 +11,4 @@ theme:
     gap: "24px"
   layout:
     maxWidth: "1600px"
-    paddingX: "144px"
+    paddingX: "96px"
