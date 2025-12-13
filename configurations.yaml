@@ -2,7 +2,7 @@ theme:
   colors:
     background: "#2D1A34FF"
     surface: "#2E3F42FF"
-    primary: "#0B066EFF"
+    primary: "#099451FF"
     text: "#f4f4f5"
   card:
     aspectRatio: "9/19.5"
