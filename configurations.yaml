@@ -1,9 +1,9 @@
 theme:
-  # colors:
-  #   background: "#242431FF"
-  #   surface: "#1B2021FF"
-  #   primary: "#16909BFF"
-  #   text: "#f4f4f5"
+  colors:
+    background: "#2D1A34FF"
+    surface: "#2E3F42FF"
+    primary: "#0B066EFF"
+    text: "#f4f4f5"
   card:
     aspectRatio: "9/19.5"
     borderRadius: "2rem"
