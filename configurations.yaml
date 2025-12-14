@@ -5,7 +5,7 @@ theme:
     primary: '#00ffb3'
     text: '#f4f4f5'
   card:
-    aspectRatio: 9/19
+    aspectRatio: 9/19.5
     borderRadius: .5rem
     borderWidth: 0px
     gap: 24px
