@@ -1,0 +1,17 @@
+theme:
+  colors:
+    background: '#020617'
+    surface: '#0f172a'
+    primary: '#38bdf8'
+    text: '#f4f4f5'
+  card:
+    aspectRatio: 1/1
+    borderRadius: 1.5rem
+    borderWidth: 1px
+    hoverBorderWidth: 2px
+    gap: 2rem
+  layout:
+    maxWidth: 1600px
+    paddingX: 96px
+    gridColumns: 4
+    aspectRatio: 1/1

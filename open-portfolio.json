@@ -1,0 +1,32 @@
+{
+  "name": "Yousef Shaiban",
+  "title": "TESTING",
+  "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "email": "",
+  "phone": "",
+  "linkedin": "yousefshaiban",
+  "sections": [
+    {
+      "name": "My Work",
+      "projects": [
+        {
+          "id": 1771525049488,
+          "name": "Moteelz",
+          "description": "Description of your project",
+          "techStack": [
+            "Flutter"
+          ],
+          "featured": false,
+          "folder": "888462a6-d3b8-4390-a3b9-6754b760a233",
+          "images_count": 1,
+          "cover_image": "0.webp",
+          "links": []
+        }
+      ],
+      "aspectRatio": "9/19.5",
+      "gridColumns": 4
+    }
+  ],
+  "twitter": "",
+  "last_updated": 1771525152363
+}
