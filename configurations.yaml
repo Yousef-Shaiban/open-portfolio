@@ -2,7 +2,7 @@ theme:
   colors:
     background: 10 10 15
     surface: 20 20 25
-    primary: 252 211 77
+    primary: 255 234 0
     text: 255 255 255
   card:
     aspectRatio: 1/1
@@ -15,5 +15,5 @@ theme:
     paddingX: 96px
     gridColumns: 4
     aspectRatio: 1/1
-    backgroundEffect: rings
+    backgroundEffect: rays
     borderRadius: 2rem
