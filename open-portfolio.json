@@ -2,8 +2,8 @@
   "name": "Yousef Shaiban",
   "title": "TESTING",
   "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  "email": "yousefsm123321@gmail.com",
-  "phone": "+96778994568",
+  "email": "",
+  "phone": "",
   "linkedin": "yousefshaiban",
   "sections": [
     {
@@ -21,47 +21,14 @@
           "images_count": 6,
           "cover_image": "0.webp",
           "links": []
-        },
-        {
-          "id": 1771525770837,
-          "name": "New Project",
-          "description": "Description of your project",
-          "techStack": [
-            "DART"
-          ],
-          "featured": false,
-          "folder": "d4d16b67-1f29-4126-9120-3b4a1c6785b8",
-          "images_count": 2,
-          "cover_image": "1.webp"
         }
       ],
       "aspectRatio": "9/19.5",
       "gridColumns": 4
-    },
-    {
-      "name": "New Section",
-      "projects": [
-        {
-          "id": 1771525800786,
-          "name": "OPEN",
-          "description": "Description of your project",
-          "techStack": [],
-          "featured": false,
-          "folder": "932552d7-af89-49da-97d7-0b1094ddb135",
-          "images_count": 1,
-          "cover_image": "0.webp"
-        }
-      ],
-      "aspectRatio": "16/9",
-      "gridColumns": 3
     }
   ],
-  "twitter": "wad",
-  "last_updated": 1771526764159,
+  "twitter": "",
+  "last_updated": 1771526928357,
   "avatar": "avatar.webp",
-  "website": "https://google.com",
-  "whatsapp": "+967778994568",
-  "telegram": "@yousefshaiban",
-  "cv_pdf": "https://google.com",
-  "github": "disabled"
+  "github": ""
 }
