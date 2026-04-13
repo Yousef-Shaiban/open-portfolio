@@ -20,7 +20,15 @@
           "folder": "888462a6-d3b8-4390-a3b9-6754b760a233",
           "images_count": 6,
           "cover_image": "0.webp",
-          "links": []
+          "links": [],
+          "image_order": [
+            "0.webp",
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+          ]
         },
         {
           "name": "AlKamaria",
@@ -37,7 +45,24 @@
           ],
           "folder": "600d79db-1dd4-48ed-a5fb-501001dc0a54",
           "images_count": 14,
-          "cover_image": "0.webp"
+          "cover_image": "1.webp",
+          "image_order": [
+            "0.webp",
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp",
+            "7.webp",
+            "8.webp",
+            "9.webp",
+            "10.webp",
+            "11.webp",
+            "12.webp",
+            "13.webp"
+          ],
+          "links": []
         }
       ],
       "aspectRatio": "9/19.5",
@@ -45,7 +70,8 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776122190326,
+  "last_updated": 1776123849499,
   "avatar": "avatar.webp",
-  "github": "enabled"
+  "github": "enabled",
+  "cv_pdf": ""
 }
