@@ -21,6 +21,23 @@
           "images_count": 6,
           "cover_image": "0.webp",
           "links": []
+        },
+        {
+          "name": "AlKamaria",
+          "description": "Description of your project",
+          "techStack": [
+            "Flutter",
+            "NestJS",
+            "Next.js",
+            "RAG",
+            "MongoDB",
+            "VectorDB",
+            "Traefik",
+            "AI Integration"
+          ],
+          "folder": "600d79db-1dd4-48ed-a5fb-501001dc0a54",
+          "images_count": 14,
+          "cover_image": "0.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -28,7 +45,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1772551248269,
+  "last_updated": 1776122190326,
   "avatar": "avatar.webp",
   "github": "enabled"
 }
