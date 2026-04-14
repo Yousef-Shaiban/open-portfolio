@@ -63,6 +63,13 @@
             "13.webp"
           ],
           "links": []
+        },
+        {
+          "name": "New Project",
+          "description": "Description of your project",
+          "techStack": [],
+          "folder": "daf8ceb0-690d-474b-a27d-2493afbd9bb3",
+          "images_count": 0
         }
       ],
       "aspectRatio": "9/19.5",
@@ -70,7 +77,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776123849499,
+  "last_updated": 1776125061682,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
