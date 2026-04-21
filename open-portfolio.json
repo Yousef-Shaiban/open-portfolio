@@ -32,7 +32,7 @@
         },
         {
           "name": "AlKamaria",
-          "description": "Description of your project",
+          "description": "A cooking and engagement platform featuring product-linked recipes, interactive challenges, and a points-based rewards system. Integrated an AI-powered chatbot using RAG to deliver context-aware recipe suggestions based on a curated knowledge base of recipes and product data. Includes an informational product hub and admin dashboard. \n\n(in progress to release publicly)",
           "techStack": [
             "Flutter",
             "NestJS",
@@ -66,7 +66,7 @@
         },
         {
           "name": "Bemal",
-          "description": "Financial solutions platform for companies and employees (not released yet)",
+          "description": "Financial solutions platform for companies and employees",
           "techStack": [
             "Flutter",
             "Signals/Hooks",
@@ -79,7 +79,7 @@
             {
               "type": "live",
               "label": "web page",
-              "url": "https://bemaal.com/"
+              "url": ""
             }
           ]
         }
@@ -89,7 +89,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776814567195,
+  "last_updated": 1776815677359,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
