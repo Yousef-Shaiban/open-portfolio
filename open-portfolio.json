@@ -65,11 +65,23 @@
           "links": []
         },
         {
-          "name": "New Project",
-          "description": "Description of your project",
-          "techStack": [],
+          "name": "Bemal",
+          "description": "Financial solutions platform for companies and employees (not released yet)",
+          "techStack": [
+            "Flutter",
+            "Signals/Hooks",
+            "API Integration"
+          ],
           "folder": "daf8ceb0-690d-474b-a27d-2493afbd9bb3",
-          "images_count": 0
+          "images_count": 25,
+          "cover_image": "0.webp",
+          "links": [
+            {
+              "type": "live",
+              "label": "web page",
+              "url": "https://bemaal.com/"
+            }
+          ]
         }
       ],
       "aspectRatio": "9/19.5",
@@ -77,7 +89,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776811760770,
+  "last_updated": 1776814567195,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
