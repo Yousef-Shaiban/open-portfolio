@@ -42,7 +42,8 @@
             "MongoDB",
             "VectorDB",
             "Traefik",
-            "AI Integration"
+            "AI Integration",
+            "Signals/Hooks"
           ],
           "folder": "600d79db-1dd4-48ed-a5fb-501001dc0a54",
           "images_count": 14,
@@ -95,6 +96,22 @@
           "folder": "d6f2d87f-e323-4beb-8cae-6827fd111c39",
           "images_count": 89,
           "cover_image": "0.webp"
+        },
+        {
+          "name": "Hagz",
+          "description": "A comprehensive mobile app for resort bookings, with a dashboard\n\n(not published yet)",
+          "techStack": [
+            "Flutter",
+            "NestJS",
+            "Next.js",
+            "API",
+            "API Design",
+            "API Integration",
+            "MySql"
+          ],
+          "folder": "28d6c445-97fa-494a-9e5a-21710cfedd95",
+          "images_count": 15,
+          "cover_image": "0.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -102,7 +119,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776817201063,
+  "last_updated": 1776817428783,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
