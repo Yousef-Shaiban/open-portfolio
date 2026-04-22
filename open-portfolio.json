@@ -83,6 +83,18 @@
               "url": ""
             }
           ]
+        },
+        {
+          "name": "Rabeh",
+          "description": "An investment platform designed to transform assets into opportunities supported with blockchain\n\n(under development)",
+          "techStack": [
+            "Flutter",
+            "Signals/Hooks",
+            "API Integration"
+          ],
+          "folder": "d6f2d87f-e323-4beb-8cae-6827fd111c39",
+          "images_count": 89,
+          "cover_image": "0.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -90,7 +102,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776816131436,
+  "last_updated": 1776817201063,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
