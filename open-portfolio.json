@@ -172,6 +172,40 @@
           "folder": "289f0e9b-c12f-4846-ab8b-7e4559b2e13b",
           "images_count": 7,
           "cover_image": "0.webp"
+        },
+        {
+          "name": "SMX",
+          "description": "a SaaS platform for OTPs & SMS services.",
+          "techStack": [
+            "Flutter",
+            "API",
+            "Express.js",
+            "API Integration",
+            "API Design",
+            "SaaS",
+            "SMS",
+            "OTP"
+          ],
+          "folder": "b35a3d77-925d-4d7c-a1c3-dadef6467cd6",
+          "images_count": 4,
+          "cover_image": "2.webp"
+        },
+        {
+          "name": "Dawaa Online",
+          "description": "An app for purchasing and delivering medical products and drugs, enabling users to browse, order, and receive items conveniently with real-time tracking",
+          "techStack": [
+            "Flutter",
+            "API",
+            "ASP.NET",
+            "SQLServer",
+            "API Design",
+            "API Integration",
+            "Maps",
+            "Background Live Location Tracking"
+          ],
+          "folder": "8d5968d4-9b18-4892-bb23-b1d2fc0b0c93",
+          "images_count": 12,
+          "cover_image": "8.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -179,7 +213,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776819678477,
+  "last_updated": 1776819941786,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
