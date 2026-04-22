@@ -112,6 +112,44 @@
           "folder": "28d6c445-97fa-494a-9e5a-21710cfedd95",
           "images_count": 15,
           "cover_image": "0.webp"
+        },
+        {
+          "name": "Laftah",
+          "description": "A comprehensive store app for selling Abayas",
+          "techStack": [
+            "Flutter",
+            "API Integration"
+          ],
+          "folder": "3f6740ce-c491-44cd-8371-28f8af3d84a7",
+          "images_count": 17,
+          "cover_image": "0.webp"
+        },
+        {
+          "name": "Alesaei",
+          "description": "Online store app for selling children clothes",
+          "techStack": [
+            "Flutter",
+            "API Integration"
+          ],
+          "folder": "4fe5562c-a785-48e2-b8f9-208ccf04f6f4",
+          "images_count": 14,
+          "cover_image": "0.webp"
+        },
+        {
+          "name": "IMS",
+          "description": "a platform to help English institutes organize courses and enhance student learning. Features include assignments, quizzes, study materials, real-time chats, posts, announcements, and news updates, enabling modern, interactive, and connected learning experience",
+          "techStack": [
+            "Flutter",
+            "Laravel",
+            "NestJS",
+            "API",
+            "API Integration",
+            "MongoDB",
+            "MySql"
+          ],
+          "folder": "ee51d5e8-b53f-4b6c-8b75-a7a1a76f1edc",
+          "images_count": 12,
+          "cover_image": "0.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -119,7 +157,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776817428783,
+  "last_updated": 1776817641459,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": ""
