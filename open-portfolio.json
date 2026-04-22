@@ -1,8 +1,8 @@
 {
   "name": "Yousef Shaiban",
-  "title": "TESTING (NOT COMPLETED)",
-  "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  "email": "",
+  "title": "Software Engineer",
+  "bio": "Software Engineer with over 5 years of experience building mobile apps and backends, mainly in Flutter, Native Android, and APIs. Founder of open-portfolio.org, skilled in building secure, scalable apps with clean architecture and strong product delivery.",
+  "email": "work.yousef.shaiban@gmail.com",
   "phone": "",
   "linkedin": "yousefshaiban",
   "sections": [
@@ -150,6 +150,28 @@
           "folder": "ee51d5e8-b53f-4b6c-8b75-a7a1a76f1edc",
           "images_count": 12,
           "cover_image": "0.webp"
+        },
+        {
+          "name": "Malaeb",
+          "description": "A football field booking application",
+          "techStack": [
+            "Flutter",
+            "API Integration"
+          ],
+          "folder": "c9b27a3d-9cf9-4116-80e6-8ae7dfe2332c",
+          "images_count": 12,
+          "cover_image": "0.webp"
+        },
+        {
+          "name": "Sinddbad",
+          "description": "An online store app for construction equipments",
+          "techStack": [
+            "Flutter",
+            "UI Only"
+          ],
+          "folder": "289f0e9b-c12f-4846-ab8b-7e4559b2e13b",
+          "images_count": 7,
+          "cover_image": "0.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -157,8 +179,10 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776817641459,
+  "last_updated": 1776819678477,
   "avatar": "avatar.webp",
   "github": "enabled",
-  "cv_pdf": ""
+  "cv_pdf": "",
+  "telegram": "@yousefshaiban",
+  "whatsapp": "+967778994568"
 }
