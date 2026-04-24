@@ -12,7 +12,7 @@
         {
           "id": 1771525049488,
           "name": "Moteelz",
-          "description": "Re-leasing real estate investment platform (moat images are from future release)",
+          "description": "Re-leasing real estate investment platform (most images are from future release)",
           "techStack": [
             "Flutter",
             "Signals/Hooks"
@@ -205,7 +205,7 @@
           ],
           "folder": "8d5968d4-9b18-4892-bb23-b1d2fc0b0c93",
           "images_count": 12,
-          "cover_image": "10.webp"
+          "cover_image": "2.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -213,7 +213,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776819986297,
+  "last_updated": 1776993656368,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
