@@ -68,7 +68,7 @@
         },
         {
           "name": "Bemal",
-          "description": "Financial solutions platform for companies and employees",
+          "description": "Financial solutions platform for companies and employees (not published yet)",
           "techStack": [
             "Flutter",
             "Signals/Hooks",
@@ -121,7 +121,7 @@
             "API Integration"
           ],
           "folder": "3f6740ce-c491-44cd-8371-28f8af3d84a7",
-          "images_count": 17,
+          "images_count": 10,
           "cover_image": "0.webp"
         },
         {
@@ -148,7 +148,7 @@
             "MySql"
           ],
           "folder": "ee51d5e8-b53f-4b6c-8b75-a7a1a76f1edc",
-          "images_count": 12,
+          "images_count": 11,
           "cover_image": "0.webp"
         },
         {
@@ -205,7 +205,7 @@
           ],
           "folder": "8d5968d4-9b18-4892-bb23-b1d2fc0b0c93",
           "images_count": 12,
-          "cover_image": "4.webp"
+          "cover_image": "6.webp"
         }
       ],
       "aspectRatio": "9/19.5",
@@ -213,7 +213,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1776993862208,
+  "last_updated": 1777805760894,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
