@@ -10,16 +10,15 @@
       "name": "MOBILE APPS",
       "projects": [
         {
-          "id": 1771525049488,
-          "name": "Moteelz",
-          "description": "Re-leasing real estate investment platform (most images are from future release)",
+          "name": "Rabeh",
+          "description": "An investment platform designed to transform assets into opportunities supported with blockchain\n\n(under development)",
           "techStack": [
             "Flutter",
-            "Signals/Hooks"
+            "Signals/Hooks",
+            "API Integration"
           ],
-          "featured": false,
-          "folder": "888462a6-d3b8-4390-a3b9-6754b760a233",
-          "images_count": 55,
+          "folder": "d6f2d87f-e323-4beb-8cae-6827fd111c39",
+          "images_count": 89,
           "cover_index": null,
           "image_order": null
         },
@@ -43,6 +42,20 @@
           "image_order": null
         },
         {
+          "id": 1771525049488,
+          "name": "Moteelz",
+          "description": "Re-leasing real estate investment platform (most images are from future release)",
+          "techStack": [
+            "Flutter",
+            "Signals/Hooks"
+          ],
+          "featured": false,
+          "folder": "888462a6-d3b8-4390-a3b9-6754b760a233",
+          "images_count": 55,
+          "cover_index": null,
+          "image_order": null
+        },
+        {
           "name": "Bemal",
           "description": "Financial solutions platform for companies and employees (not published yet)",
           "techStack": [
@@ -59,19 +72,6 @@
               "url": "https://bemaal.com/"
             }
           ],
-          "image_order": null
-        },
-        {
-          "name": "Rabeh",
-          "description": "An investment platform designed to transform assets into opportunities supported with blockchain\n\n(under development)",
-          "techStack": [
-            "Flutter",
-            "Signals/Hooks",
-            "API Integration"
-          ],
-          "folder": "d6f2d87f-e323-4beb-8cae-6827fd111c39",
-          "images_count": 89,
-          "cover_index": null,
           "image_order": null
         },
         {
@@ -198,7 +198,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1779233296920,
+  "last_updated": 1779233402612,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
