@@ -1,14 +1,14 @@
 theme:
   colors:
-    background: 2 8 18
-    surface: 8 20 35
-    primary: 0 210 255
-    text: 230 245 255
+    background: 10 10 15
+    surface: 20 20 25
+    primary: 252 211 77
+    text: 255 255 255
   card:
     aspectRatio: 1/1
     borderRadius: 2rem
     borderWidth: 1px
-    hoverBorderWidth: 2px
+    hoverBorderWidth: 4px
     gap: 2rem
   layout:
     maxWidth: 1600px
@@ -17,3 +17,4 @@ theme:
     aspectRatio: 1/1
     backgroundEffect: rays
     borderRadius: 2rem
+    hoverBorderWidth: 4px

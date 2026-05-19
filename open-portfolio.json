@@ -1,7 +1,7 @@
 {
   "name": "Yousef Shaiban",
   "title": "Software Engineer",
-  "bio": "Software Engineer with over 5 years of experience building mobile apps and backends, mainly in Flutter, Native Android, and APIs. Founder of open-portfolio.org, skilled in building secure, scalable apps with clean architecture and strong product delivery,",
+  "bio": "Software Engineer with over 5 years of experience building mobile apps and backends, mainly in Flutter, Native Android, and APIs. Founder of open-portfolio.org, skilled in building secure, scalable apps with clean architecture and strong product delivery.",
   "email": "work.yousef.shaiban@gmail.com",
   "phone": "",
   "linkedin": "yousefshaiban",
@@ -92,18 +92,6 @@
           "image_order": null
         },
         {
-          "name": "Alesaei",
-          "description": "Online store app for selling children clothes",
-          "techStack": [
-            "Flutter",
-            "API Integration"
-          ],
-          "folder": "4fe5562c-a785-48e2-b8f9-208ccf04f6f4",
-          "images_count": 14,
-          "cover_index": null,
-          "image_order": null
-        },
-        {
           "name": "Laftah",
           "description": "A comprehensive store app for selling Abayas",
           "techStack": [
@@ -112,6 +100,18 @@
           ],
           "folder": "3f6740ce-c491-44cd-8371-28f8af3d84a7",
           "images_count": 10,
+          "cover_index": null,
+          "image_order": null
+        },
+        {
+          "name": "Alesaei",
+          "description": "Online store app for selling children clothes",
+          "techStack": [
+            "Flutter",
+            "API Integration"
+          ],
+          "folder": "4fe5562c-a785-48e2-b8f9-208ccf04f6f4",
+          "images_count": 14,
           "cover_index": null,
           "image_order": null
         },
@@ -198,10 +198,10 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1779107717920,
+  "last_updated": 1779233296920,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
-  "telegram": "@yousefshaiban",
+  "telegram": "",
   "whatsapp": "+967778994568"
 }
