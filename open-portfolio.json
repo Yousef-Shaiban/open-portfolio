@@ -39,7 +39,17 @@
           "folder": "600d79db-1dd4-48ed-a5fb-501001dc0a54",
           "images_count": 14,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=com.ycgsi.app.alqamaria"
+            },
+            {
+              "label": "App Store",
+              "url": "https://apps.apple.com/app/%D8%A7%D9%84%D9%82%D9%85%D8%B1%D9%8A%D8%A9/id6769572154"
+            }
+          ]
         },
         {
           "id": 1771525049488,
@@ -198,7 +208,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1780406713935,
+  "last_updated": 1781282445603,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
