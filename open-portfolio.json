@@ -24,7 +24,7 @@
         },
         {
           "name": "AlKamaria",
-          "description": "A cooking and engagement platform featuring product-linked recipes, interactive challenges, and a points-based rewards system. Integrated an AI-powered chatbot using RAG to deliver context-aware recipe suggestions based on a curated knowledge base of recipes and product data. Includes an informational product hub and admin dashboard. \n\n(in progress to release publicly)",
+          "description": "A cooking and engagement platform featuring product-linked recipes, interactive challenges, and a points-based rewards system. Integrated an AI-powered chatbot using RAG to deliver context-aware recipe suggestions based on a curated knowledge base of recipes and product data. Includes an informational product hub and admin dashboard. ",
           "techStack": [
             "Flutter",
             "NestJS",
@@ -208,7 +208,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1781282445603,
+  "last_updated": 1781282488842,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
