@@ -126,6 +126,19 @@
           "image_order": null
         },
         {
+          "id": "de3fb940-72ea-4c60-8fce-f3d593094e83",
+          "name": "Saffan",
+          "description": "Ship and maritime asset investment platform",
+          "techStack": [
+            "Flutter",
+            "Signals/Hooks"
+          ],
+          "folder": "de3fb940-72ea-4c60-8fce-f3d593094e83",
+          "images_count": 17,
+          "image_order": null,
+          "cover_index": null
+        },
+        {
           "name": "IMS",
           "description": "a platform to help English institutes organize courses and enhance student learning. Features include assignments, quizzes, study materials, real-time chats, posts, announcements, and news updates, enabling modern, interactive, and connected learning experience",
           "techStack": [
@@ -163,25 +176,7 @@
           ],
           "folder": "289f0e9b-c12f-4846-ab8b-7e4559b2e13b",
           "images_count": 7,
-          "cover_index": null,
-          "image_order": null
-        },
-        {
-          "name": "SMX",
-          "description": "a SaaS platform for OTPs & SMS services.",
-          "techStack": [
-            "Flutter",
-            "API",
-            "Express.js",
-            "API Integration",
-            "API Design",
-            "SaaS",
-            "SMS",
-            "OTP"
-          ],
-          "folder": "b35a3d77-925d-4d7c-a1c3-dadef6467cd6",
-          "images_count": 4,
-          "cover_index": null,
+          "cover_index": 5,
           "image_order": null
         },
         {
@@ -205,10 +200,70 @@
       ],
       "aspectRatio": "9/19.5",
       "gridColumns": 4
+    },
+    {
+      "name": "WEBSITES",
+      "projects": [
+        {
+          "id": "86f131d6-fb74-4f11-b775-9f7e98b8c9fc",
+          "name": "Open Portfolio",
+          "description": "Automated portfolio builder designed for software developers.",
+          "techStack": [
+            "React",
+            "OAuth"
+          ],
+          "folder": "86f131d6-fb74-4f11-b775-9f7e98b8c9fc",
+          "images_count": 2,
+          "image_order": null,
+          "cover_index": null,
+          "links": [
+            {
+              "label": "Site",
+              "url": "https://www.open-portfolio.org/"
+            }
+          ]
+        },
+        {
+          "id": "a985080f-e0f8-40cd-a0ff-c986490ae34e",
+          "name": "SMX",
+          "description": "Self-hosted OTP & SMS SaaS.",
+          "techStack": [
+            "Next.js",
+            "Express.js",
+            "Firebase",
+            "Supabase"
+          ],
+          "folder": "a985080f-e0f8-40cd-a0ff-c986490ae34e",
+          "images_count": 4,
+          "image_order": null,
+          "cover_index": null,
+          "links": [
+            {
+              "label": "Site",
+              "url": "https://smx.ymxapis.com/"
+            }
+          ]
+        },
+        {
+          "id": "8d9d1804-4ebd-4355-bc14-a83c20189788",
+          "name": "AlKamaria",
+          "description": "AlKamaria admin dashboard.",
+          "techStack": [
+            "Next.js",
+            "TailwindCss"
+          ],
+          "folder": "8d9d1804-4ebd-4355-bc14-a83c20189788",
+          "images_count": 11,
+          "image_order": null,
+          "cover_index": 1
+        }
+      ],
+      "aspectRatio": "16/9",
+      "gridColumns": 2
     }
   ],
   "twitter": "",
-  "last_updated": 1781986347211,
+  "last_updated": 1792369756864,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "https://drive.google.com/drive/folders/1daxpmHQ3i_SWy-Dj4A_hCV1ccWEnjGBE?usp=sharing",
