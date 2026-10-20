@@ -1,9 +1,9 @@
 theme:
   colors:
-    background: 10 10 15
-    surface: 20 20 25
-    primary: 252 211 77
-    text: 255 255 255
+    background: 2 6 23
+    surface: 15 23 42
+    primary: 56 189 248
+    text: 226 232 240
   card:
     aspectRatio: 1/1
     borderRadius: 2rem
