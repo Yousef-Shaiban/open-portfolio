@@ -20,7 +20,13 @@
           "folder": "d6f2d87f-e323-4beb-8cae-6827fd111c39",
           "images_count": 89,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=sa.rabeh.app"
+            }
+          ]
         },
         {
           "name": "AlKamaria",
@@ -63,7 +69,17 @@
           "folder": "888462a6-d3b8-4390-a3b9-6754b760a233",
           "images_count": 54,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=com.moteelz.app"
+            },
+            {
+              "label": "App Store",
+              "url": "https://apps.apple.com/us/app/%D9%85%D9%88%D8%AA%D9%8A%D9%84%D8%B2/id6476879248"
+            }
+          ]
         },
         {
           "name": "Bemal",
@@ -111,7 +127,17 @@
           "folder": "3f6740ce-c491-44cd-8371-28f8af3d84a7",
           "images_count": 10,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=sa.laftah.store"
+            },
+            {
+              "label": "App Store",
+              "url": "https://apps.apple.com/sa/app/%D8%B9%D8%A8%D8%A7%D9%8A%D8%A7%D8%AA-%D9%84%D9%81%D8%AA%D8%A9/id1554663891"
+            }
+          ]
         },
         {
           "name": "Alesaei",
@@ -123,7 +149,13 @@
           "folder": "4fe5562c-a785-48e2-b8f9-208ccf04f6f4",
           "images_count": 14,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "App Store",
+              "url": "https://apps.apple.com/sa/app/%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84/id6456224513"
+            }
+          ]
         },
         {
           "id": "de3fb940-72ea-4c60-8fce-f3d593094e83",
@@ -165,7 +197,13 @@
           "folder": "c9b27a3d-9cf9-4116-80e6-8ae7dfe2332c",
           "images_count": 12,
           "cover_index": null,
-          "image_order": null
+          "image_order": null,
+          "links": [
+            {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=com.stepfwd.malaeb_client"
+            }
+          ]
         },
         {
           "name": "Sinddbad",
@@ -263,7 +301,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1793218675239,
+  "last_updated": 1793316877285,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
