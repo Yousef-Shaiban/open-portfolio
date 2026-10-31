@@ -152,6 +152,10 @@
           "image_order": null,
           "links": [
             {
+              "label": "Play Store",
+              "url": "https://play.google.com/store/apps/details?id=com.alesaeiaes"
+            },
+            {
               "label": "App Store",
               "url": "https://apps.apple.com/sa/app/%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D8%A6%D9%8A-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84/id6456224513"
             }
@@ -301,7 +305,7 @@
     }
   ],
   "twitter": "",
-  "last_updated": 1793317889264,
+  "last_updated": 1793406277075,
   "avatar": "avatar.webp",
   "github": "enabled",
   "cv_pdf": "",
